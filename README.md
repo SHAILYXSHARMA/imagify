@@ -10,8 +10,6 @@ Credit System: Users can purchase and manage credits to generate images.
 
 Razorpay Integration: Seamless payment gateway for purchasing credits.
 
-Image Gallery: View and manage your generated images.
-
 Responsive Design: Enjoy a consistent experience across various devices.
 
 Download Images: Easily download your generated images.
